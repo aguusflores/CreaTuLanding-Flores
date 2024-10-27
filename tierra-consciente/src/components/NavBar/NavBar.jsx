@@ -5,7 +5,6 @@ import { Navbar, Container, Nav, NavDropdown } from 'react-bootstrap';
 const NavBar = ({ valor }) => {
   return (
     <>
-      
       <div>
         <CarWidget valor={valor} />
       </div>
