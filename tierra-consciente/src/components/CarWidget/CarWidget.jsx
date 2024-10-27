@@ -2,7 +2,7 @@ import React from 'react'
 
 const CarWidget = ({valor}) => {
   return (
-    <div>CarWidget 🛒
+    <div> 🛒
         <span>{valor}</span>
     </div>
     

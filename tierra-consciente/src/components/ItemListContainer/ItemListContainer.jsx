@@ -11,7 +11,7 @@ const ItemListContainer = ({mensaje, fn}) => {
     <>
     <div>
     <div>{mensaje}</div>
-    <Button fn={fn} text="añadir al carrito"/>
+    <Button fn={fn} text="Añadir al carrito"/>
     </div>
     <div>
     
