@@ -1,8 +1,10 @@
 import React from 'react'
+import { RiShoppingCartLine } from "react-icons/ri";
 
 const CarWidget = ({valor}) => {
   return (
-    <div> 🛒
+    <div> 
+      <RiShoppingCartLine />
         <span>{valor}</span>
     </div>
     

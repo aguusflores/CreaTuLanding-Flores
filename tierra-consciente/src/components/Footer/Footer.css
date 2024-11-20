@@ -1,0 +1,54 @@
+.footer {
+    background-color: #0b3d30;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  .newsletter {
+    margin-bottom: 20px;
+  }
+  
+  .newsletter h3 {
+    font-size: 1.5em;
+  }
+  
+  .newsletter p {
+    font-size: 1em;
+  }
+  
+  .newsletter form {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .newsletter input[type="email"] {
+    padding: 8px;
+    font-size: 1em;
+  }
+  
+  .newsletter button {
+    padding: 8px 16px;
+    background-color: #004b39;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .contact-info {
+    background-color: #3ba688;
+    padding: 10px 0;
+  }
+  
+  .social-media i {
+    font-size: 1.5em;
+    margin: 0 10px;
+    cursor: pointer;
+  }
+  
+  .contact-info p {
+    margin: 5px 0;
+    font-size: 1em;
+  }
+  

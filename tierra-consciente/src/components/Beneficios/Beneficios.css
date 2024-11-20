@@ -1,0 +1,28 @@
+.beneficios-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+.beneficio {
+    width: 30%;
+}
+
+.beneficio h3 {
+    font-size: 1.2em;
+    color: #333;
+}
+
+.beneficio p {
+    font-size: 1em;
+    color: #666;
+}
+
+.beneficio img {
+    margin-top: 10px;
+    width: 150px;
+    height: auto;
+}
